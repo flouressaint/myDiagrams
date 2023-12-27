@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-27T04:07:32.887Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.1.2 Safari/605.1.15" etag="glrbcf8TrfVYMePdy7rz" version="22.1.12" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-27T05:54:09.728Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.1.2 Safari/605.1.15" etag="AQO5t1wQ4ulGfSuG1vwl" version="22.1.12" type="github">
   <diagram name="Page-1" id="Tag8T7QgALjYPXoeG9WN">
-    <mxGraphModel dx="778" dy="1852" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2127" dy="2040" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -44,7 +44,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="L29egLzZxKvgpsoH9Dki-13" value="Пользователи" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=100;height=30;" vertex="1" parent="1">
-          <mxGeometry x="50" y="-260" width="610" height="280" as="geometry" />
+          <mxGeometry x="-10" y="-260" width="670" height="210" as="geometry" />
         </mxCell>
         <mxCell id="L29egLzZxKvgpsoH9Dki-14" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.607;entryY=-0.019;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.85;exitY=1.006;exitDx=0;exitDy=0;exitPerimeter=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="L29egLzZxKvgpsoH9Dki-13" target="L29egLzZxKvgpsoH9Dki-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -66,6 +66,14 @@
         <mxCell id="L29egLzZxKvgpsoH9Dki-17" value="Данные пользователя" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="L29egLzZxKvgpsoH9Dki-15">
           <mxGeometry x="-0.3471" y="-2" relative="1" as="geometry">
             <mxPoint x="28" y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L29egLzZxKvgpsoH9Dki-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="L29egLzZxKvgpsoH9Dki-19" target="L29egLzZxKvgpsoH9Dki-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="L29egLzZxKvgpsoH9Dki-51" value="Переход на страницу&lt;br&gt;&amp;nbsp;расписания" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="L29egLzZxKvgpsoH9Dki-43">
+          <mxGeometry x="0.3165" y="-6" relative="1" as="geometry">
+            <mxPoint x="-6" y="-28" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="L29egLzZxKvgpsoH9Dki-19" value="Обучающиеся" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -96,7 +104,7 @@
         <mxCell id="L29egLzZxKvgpsoH9Dki-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.085;entryY=1.017;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="L29egLzZxKvgpsoH9Dki-3" target="L29egLzZxKvgpsoH9Dki-13">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="102" y="130" />
+              <mxPoint x="47" y="130" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -105,10 +113,11 @@
             <mxPoint x="40" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="L29egLzZxKvgpsoH9Dki-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.932;entryY=1.005;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="L29egLzZxKvgpsoH9Dki-3" target="L29egLzZxKvgpsoH9Dki-13">
+        <mxCell id="L29egLzZxKvgpsoH9Dki-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="L29egLzZxKvgpsoH9Dki-3" target="L29egLzZxKvgpsoH9Dki-13">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="600" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="619" y="130" />
+              <mxPoint x="600" y="130" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -132,7 +141,7 @@
         <mxCell id="L29egLzZxKvgpsoH9Dki-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.028;entryY=1.017;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="L29egLzZxKvgpsoH9Dki-4" target="L29egLzZxKvgpsoH9Dki-13">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="67" y="480" />
+              <mxPoint x="9" y="480" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -153,11 +162,66 @@
         <mxCell id="L29egLzZxKvgpsoH9Dki-36" value="Создание занятия" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="-420" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="L29egLzZxKvgpsoH9Dki-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="L29egLzZxKvgpsoH9Dki-37" target="L29egLzZxKvgpsoH9Dki-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="L29egLzZxKvgpsoH9Dki-46" value="Список занятий" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="L29egLzZxKvgpsoH9Dki-45">
+          <mxGeometry x="0.0826" y="3" relative="1" as="geometry">
+            <mxPoint x="45" y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L29egLzZxKvgpsoH9Dki-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="L29egLzZxKvgpsoH9Dki-37" target="L29egLzZxKvgpsoH9Dki-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="L29egLzZxKvgpsoH9Dki-48" value="Список занятий" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="L29egLzZxKvgpsoH9Dki-47">
+          <mxGeometry x="-0.6139" y="2" relative="1" as="geometry">
+            <mxPoint x="33" y="2" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="L29egLzZxKvgpsoH9Dki-37" value="Занятия" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="300" y="-560" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="L29egLzZxKvgpsoH9Dki-38" value="Добавить занятие" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="L29egLzZxKvgpsoH9Dki-36" target="L29egLzZxKvgpsoH9Dki-37">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="L29egLzZxKvgpsoH9Dki-41" value="Просмотр расписания занятий в роли обручающегося" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="-420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="L29egLzZxKvgpsoH9Dki-42" value="Просмотр расписания в роли преподавателя" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="-420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="L29egLzZxKvgpsoH9Dki-49" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="L29egLzZxKvgpsoH9Dki-41" target="L29egLzZxKvgpsoH9Dki-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="-170" as="sourcePoint" />
+            <mxPoint x="390" y="-220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L29egLzZxKvgpsoH9Dki-50" value="Расписание &lt;br&gt;занятий" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="L29egLzZxKvgpsoH9Dki-49">
+          <mxGeometry x="-0.3665" relative="1" as="geometry">
+            <mxPoint y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L29egLzZxKvgpsoH9Dki-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="580" y="-160" as="sourcePoint" />
+            <mxPoint x="580" y="-360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L29egLzZxKvgpsoH9Dki-53" value="Переход на страницу&lt;br&gt;&amp;nbsp;расписания" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="L29egLzZxKvgpsoH9Dki-52">
+          <mxGeometry x="0.3165" y="-6" relative="1" as="geometry">
+            <mxPoint x="-6" y="-28" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L29egLzZxKvgpsoH9Dki-54" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="-360" as="sourcePoint" />
+            <mxPoint x="510" y="-160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L29egLzZxKvgpsoH9Dki-55" value="Расписание &lt;br&gt;занятий" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="L29egLzZxKvgpsoH9Dki-54">
+          <mxGeometry x="-0.3665" relative="1" as="geometry">
+            <mxPoint y="7" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
