@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-17T04:28:26.298Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.1.2 Safari/605.1.15" etag="dZd_uwUlz4wqTVc2jY-t" version="22.1.18" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-01-17T04:29:13.167Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.1.2 Safari/605.1.15" etag="2iwQsU8m8FZJrmohFD75" version="22.1.18" type="github" pages="2">
   <diagram name="Page-1" id="APp0cG6JQYRo6mk2IMLD">
     <mxGraphModel dx="682" dy="2228" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -105,7 +105,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="yKNkUhcZlkQgDBh8bfxV" name="Page-2">
-    <mxGraphModel dx="51" dy="1764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="244" dy="1906" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -165,7 +165,7 @@
         <mxCell id="UaCX0-0a11ZXsLbhnr7_-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UaCX0-0a11ZXsLbhnr7_-18" target="UaCX0-0a11ZXsLbhnr7_-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UaCX0-0a11ZXsLbhnr7_-18" value="Занятие" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="UaCX0-0a11ZXsLbhnr7_-18" value="Выбор занятия" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1440" y="750" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UaCX0-0a11ZXsLbhnr7_-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UaCX0-0a11ZXsLbhnr7_-20" target="UaCX0-0a11ZXsLbhnr7_-27">
