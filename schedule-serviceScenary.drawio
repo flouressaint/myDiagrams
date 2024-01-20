@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-20T02:22:21.137Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.1.2 Safari/605.1.15" etag="K_QzuHwuGbdEe0WTolbx" version="22.1.21" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-01-20T02:23:34.711Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.1.2 Safari/605.1.15" etag="Z_52oR8lLFHDdYLCRqp5" version="22.1.21" type="github" pages="4">
   <diagram name="Page-1" id="APp0cG6JQYRo6mk2IMLD">
     <mxGraphModel dx="1065" dy="2510" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -390,7 +390,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="fuhCUyC-_o1btRk18_xh" name="Page-4">
-    <mxGraphModel dx="-84" dy="1664" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="682" dy="2228" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -531,7 +531,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2UAKse7BB7_ZQ1oEJx5_-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2UAKse7BB7_ZQ1oEJx5_-31" target="2UAKse7BB7_ZQ1oEJx5_-42">
+        <mxCell id="bVWXZ1AhDapag2IyJ8cO-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2UAKse7BB7_ZQ1oEJx5_-31" target="bVWXZ1AhDapag2IyJ8cO-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2UAKse7BB7_ZQ1oEJx5_-31" value="Изменить занятие" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -580,7 +580,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2UAKse7BB7_ZQ1oEJx5_-42" value="Заменить занятие в расписании" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1670" y="880" width="120" height="60" as="geometry" />
+          <mxGeometry x="1640" y="960" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bVWXZ1AhDapag2IyJ8cO-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="bVWXZ1AhDapag2IyJ8cO-1" target="2UAKse7BB7_ZQ1oEJx5_-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bVWXZ1AhDapag2IyJ8cO-1" value="Найти занятие" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1670" y="830" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
